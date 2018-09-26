@@ -1,0 +1,11 @@
+--Mapa
+MAPA#11#10#109#6#
+--Personajes de la simulación
+STARK#John#J#1#
+TARGARYEN#Daenerys#D#4#
+CAMINANTE#IceWalker#I#3#
+STARK#Sansa#S#6#
+LANNISTER#Tyrion#T#1#
+TARGARYEN#Aerys#A#4#
+LANNISTERNEO#TyrionNeo#V#3#
+LANNISTERSUB#LionSub#T#1#
